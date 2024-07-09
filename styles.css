@@ -69,6 +69,7 @@ header p {
 
 
 #tours {
+    background-image: url('images/bg.jpg');
     padding: 50px 20px;
     text-align: center;
 }
@@ -99,6 +100,7 @@ header p {
 
 
 #plans {
+    background-image: url('images/plan.jpg');
     padding: 50px 20px;
     text-align: center;
 }
@@ -123,6 +125,7 @@ header p {
 
 
 #testimonials {
+    background-image: url('images/bali-tour.jpg');
     padding: 50px 20px;
     text-align: center;
 }
