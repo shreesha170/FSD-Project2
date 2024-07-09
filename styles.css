@@ -1,4 +1,4 @@
-/* General Styles */
+
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
@@ -6,7 +6,7 @@ body {
     box-sizing: border-box;
 }
 
-/* Navigation Bar */
+
 
 nav {
     background-color: #333;
@@ -48,7 +48,6 @@ nav ul li a {
     font-weight: bold;
 }
 
-/* Header Section */
 header {
     background: url('images/travel.jpg');
     text-align: center;
